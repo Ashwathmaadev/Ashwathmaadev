@@ -1,4 +1,4 @@
-## Hi there 👋
+Aspiring ML Engineer with strong foundations in Python, SQL, data analytics, and beginner-level machine learning. Passionate about building practical ML models, understanding AI concepts, and working with real-world datasets
 
 <!--
 **Ashwathmaadev/Ashwathmaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
